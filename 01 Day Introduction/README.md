@@ -1,4 +1,4 @@
-## Introduction
+## Introduction to python
 
 # Getting Started with Python Programming
 
